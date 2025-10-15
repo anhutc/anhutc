@@ -19,7 +19,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anhutc&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
+
 ---
+
 <p align="center">
   <i>Hãy thoải mái khám phá các dự án của mình và đừng ngần ngại kết nối nhé! 😊</i>
 </p>
